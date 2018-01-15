@@ -1,0 +1,23 @@
+FAQ (Preguntas Frecuentes)
+
+-¿Usar este programa es motivo de ban?
+De momento, según especificó Riot Excalibur, programas que hagan modificaciones que solo afecten del lado cliente 
+(ya sea HUD o idioma, u otros) no son motivo de ban aunque no estan permitidos. Este programa siempre buscará evitar
+tener utilidades que sean motivo de ban. Aún asi, utilizar bajo su propio riesgo.
+
+-¿Por que no está disponible el Coreano? (No podré ser Faker :c)
+Tanto Corea como China tienen clientes diferentes al cliente global, por lo que sus lenguajes no son accesibles
+mediante el cliente normal de League of Legends.
+
+-Obtengo todo el tiempo el problema de idioma no válido, ¿que hago?
+Lo mas probable si te sale siempre este error es que no hayas seleccionado el archivo correcto. Revisa que sea
+el mismo que se encuentra en la carpeta config y que sea el LeagueClientSettings.yaml (no confundir con los otros
+archivos de extensión .yaml). Si tienes un error de excepción o aun estando seguro que seleccionaste este correctamente,
+intenta ejecutando el programa como administrador.
+
+-Tengo ideas para el programa o un error recurrente, ¿como me puedo contactar para preguntar o ayudar?
+Por ahora publicaré el alpha exclusivamente para LoL Chile Kawaii, asi que puedes buscar mi publicación y comentar o
+añadirme a amigos en Facebook para comentarme tus ideas.
+
+-¿En que lenguaje esta hecho?
+VB.net
