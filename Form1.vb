@@ -81,12 +81,14 @@
         End If
         If idiact = idinue Then
             MsgBox("El idioma seleccionado es el mismo que el actual.", MsgBoxStyle.Critical, "Error")
+            Exit sub    
         End If
         ' modifica el idioma
         content = content.Replace(idiact, idinue)
 
         ' escribe el nuevo contenido
         System.IO.File.WriteAllText(strfilename, content)
+        MsgBox("Idioma instalado correctamente. Ejecuta League of Legends para comprobar.", MsgBoxStyle.Information, "Completado")
     End Sub
 
     Private Sub ListBox2_SelectedIndexChanged(sender As Object, e As EventArgs) Handles ListBox2.SelectedIndexChanged
