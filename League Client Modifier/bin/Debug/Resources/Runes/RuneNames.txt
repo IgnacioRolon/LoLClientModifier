@@ -1,0 +1,4 @@
+Domination_Rune1_Key.png=Electrocute
+Domination_Rune2_Key.png=Predator
+Domination_Rune3_Key.png=Dark Harvest
+Domination_Rune4_Key.png=Hail of Blades

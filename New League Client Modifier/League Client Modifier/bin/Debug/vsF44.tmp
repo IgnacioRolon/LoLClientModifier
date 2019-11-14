@@ -1,0 +1,136 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+League Client Modifier
+</name>
+</assembly>
+<members>
+<member name="T:League_Client_Modifier.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:League_Client_Modifier.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:League_Client_Modifier.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:League_Client_Modifier.My.Resources.Resources._50px_Rune_Coup_de_Grace">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:League_Client_Modifier.My.Resources.Resources._50px_Rune_Cut_Down">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:League_Client_Modifier.My.Resources.Resources._50px_Rune_Domination">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:League_Client_Modifier.My.Resources.Resources._50px_Rune_Inspiration">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:League_Client_Modifier.My.Resources.Resources._50px_Rune_Last_Stand">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:League_Client_Modifier.My.Resources.Resources._50px_Rune_Legend___Alacrity">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:League_Client_Modifier.My.Resources.Resources._50px_Rune_Legend___Bloodline">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:League_Client_Modifier.My.Resources.Resources._50px_Rune_Legend___Tenacity">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:League_Client_Modifier.My.Resources.Resources._50px_Rune_Overheal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:League_Client_Modifier.My.Resources.Resources._50px_Rune_Precision">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:League_Client_Modifier.My.Resources.Resources._50px_Rune_Presence_of_Mind">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:League_Client_Modifier.My.Resources.Resources._50px_Rune_Resolve">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:League_Client_Modifier.My.Resources.Resources._50px_Rune_Sorcery">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:League_Client_Modifier.My.Resources.Resources._50px_Rune_Triumph">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:League_Client_Modifier.My.Resources.Resources.Conqueror">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:League_Client_Modifier.My.Resources.Resources.Dark_Harvest">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:League_Client_Modifier.My.Resources.Resources.Electrocute">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:League_Client_Modifier.My.Resources.Resources.Fleet_Footwork">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:League_Client_Modifier.My.Resources.Resources.Hail_of_Blades">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:League_Client_Modifier.My.Resources.Resources.Lethal_Tempo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:League_Client_Modifier.My.Resources.Resources.Predator">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:League_Client_Modifier.My.Resources.Resources.Press_the_Attack">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
