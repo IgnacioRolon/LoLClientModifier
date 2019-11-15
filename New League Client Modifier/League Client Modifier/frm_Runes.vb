@@ -275,8 +275,8 @@ Public Class frm_Runes
     End Sub
 
     Private Sub ChangeRune(runeBox As PictureBox, selectedRune As PictureBox, panel As Panel)
-        runeBox.Image = Image.FromFile(selectedRune.Tag)
         panel.Hide()
+        runeBox.Image = Image.FromFile(selectedRune.Tag)
     End Sub
 
     Private Sub ChangeSecondaryRune(selectedRune As PictureBox, secondaryPanel As Panel)
@@ -584,6 +584,10 @@ Public Class frm_Runes
         Else
             ShowPanel(pan_extra3)
         End If
+    End Sub
+
+    Private Sub Pan_fullMainRunes_Paint(sender As Object, e As PaintEventArgs) Handles pan_fullMainRunes.Paint
+
     End Sub
 
     Private Sub Pcb_sorceryPath_Click(sender As Object, e As EventArgs) Handles pcb_sorceryPath.Click

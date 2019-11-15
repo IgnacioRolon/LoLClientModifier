@@ -10,3 +10,15 @@ C:\Users\ignacio.a.rolon\Downloads\League Client Modifier\League Client Modifier
 C:\Users\ignacio.a.rolon\Downloads\League Client Modifier\League Client Modifier\obj\Debug\League Client Modifier.xml
 C:\Users\ignacio.a.rolon\Downloads\League Client Modifier\League Client Modifier\obj\Debug\League Client Modifier.pdb
 C:\Users\ignacio.a.rolon\Downloads\League Client Modifier\League Client Modifier\obj\Debug\League_Client_Modifier.frm_Runes.resources
+C:\Users\ignacio.a.rolon\Downloads\PortableGit\LoLClientModifier\New League Client Modifier\League Client Modifier\bin\Debug\League Client Modifier.exe.config
+C:\Users\ignacio.a.rolon\Downloads\PortableGit\LoLClientModifier\New League Client Modifier\League Client Modifier\bin\Debug\League Client Modifier.exe
+C:\Users\ignacio.a.rolon\Downloads\PortableGit\LoLClientModifier\New League Client Modifier\League Client Modifier\bin\Debug\League Client Modifier.pdb
+C:\Users\ignacio.a.rolon\Downloads\PortableGit\LoLClientModifier\New League Client Modifier\League Client Modifier\bin\Debug\League Client Modifier.xml
+C:\Users\ignacio.a.rolon\Downloads\PortableGit\LoLClientModifier\New League Client Modifier\League Client Modifier\obj\Debug\League Client Modifier.vbprojAssemblyReference.cache
+C:\Users\ignacio.a.rolon\Downloads\PortableGit\LoLClientModifier\New League Client Modifier\League Client Modifier\obj\Debug\League_Client_Modifier.frm_Runes.resources
+C:\Users\ignacio.a.rolon\Downloads\PortableGit\LoLClientModifier\New League Client Modifier\League Client Modifier\obj\Debug\League_Client_Modifier.Resources.resources
+C:\Users\ignacio.a.rolon\Downloads\PortableGit\LoLClientModifier\New League Client Modifier\League Client Modifier\obj\Debug\League Client Modifier.vbproj.GenerateResource.cache
+C:\Users\ignacio.a.rolon\Downloads\PortableGit\LoLClientModifier\New League Client Modifier\League Client Modifier\obj\Debug\League Client Modifier.vbproj.CoreCompileInputs.cache
+C:\Users\ignacio.a.rolon\Downloads\PortableGit\LoLClientModifier\New League Client Modifier\League Client Modifier\obj\Debug\League Client Modifier.exe
+C:\Users\ignacio.a.rolon\Downloads\PortableGit\LoLClientModifier\New League Client Modifier\League Client Modifier\obj\Debug\League Client Modifier.xml
+C:\Users\ignacio.a.rolon\Downloads\PortableGit\LoLClientModifier\New League Client Modifier\League Client Modifier\obj\Debug\League Client Modifier.pdb
